@@ -1,0 +1,505 @@
+﻿User country,User continent,Member years,Traveler type,Hotel name,Hotel stars,Nr. rooms,Score
+ USA,North America,9,Friends,Circus Circus Hotel & Casino Las Vegas,3,3773,5
+USA,North America,3,Business,Circus Circus Hotel & Casino Las Vegas,3,3773,3
+USA,North America,2,Families,Circus Circus Hotel & Casino Las Vegas,3,3773,5
+UK,Europe,6,Friends,Circus Circus Hotel & Casino Las Vegas,3,3773,4
+Canada,North America,7,Solo,Circus Circus Hotel & Casino Las Vegas,3,3773,4
+Canada,North America,2,Couples,Circus Circus Hotel & Casino Las Vegas,3,3773,3
+UK,Europe,4,Couples,Circus Circus Hotel & Casino Las Vegas,3,3773,4
+USA,North America,0,Families,Circus Circus Hotel & Casino Las Vegas,3,3773,4
+India,Asia,3,Friends,Circus Circus Hotel & Casino Las Vegas,3,3773,4
+Canada,North America,5,Families,Circus Circus Hotel & Casino Las Vegas,3,3773,3
+USA,North America,9,Families,Circus Circus Hotel & Casino Las Vegas,3,3773,2
+Australia,Oceania,4,Friends,Circus Circus Hotel & Casino Las Vegas,3,3773,3
+USA,North America,1,Friends,Circus Circus Hotel & Casino Las Vegas,3,3773,2
+USA,North America,1,Friends,Circus Circus Hotel & Casino Las Vegas,3,3773,3
+UK,Europe,1,Friends,Circus Circus Hotel & Casino Las Vegas,3,3773,3
+New Zeland,Oceania,2,Families,Circus Circus Hotel & Casino Las Vegas,3,3773,4
+Canada,North America,4,Families,Circus Circus Hotel & Casino Las Vegas,3,3773,1
+USA,North America,2,Families,Circus Circus Hotel & Casino Las Vegas,3,3773,4
+Canada,North America,2,Couples,Circus Circus Hotel & Casino Las Vegas,3,3773,3
+USA,North America,10,Couples,Circus Circus Hotel & Casino Las Vegas,3,3773,2
+UK,Europe,7,Couples,Circus Circus Hotel & Casino Las Vegas,3,3773,4
+New Zeland,Oceania,3,Couples,Circus Circus Hotel & Casino Las Vegas,3,3773,1
+UK,Europe,0,Families,Circus Circus Hotel & Casino Las Vegas,3,3773,4
+USA,North America,5,Couples,Circus Circus Hotel & Casino Las Vegas,3,3773,2
+Ireland,Europe,3,Couples,Excalibur Hotel & Casino,3,3981,4
+USA,North America,11,Business,Excalibur Hotel & Casino,3,3981,4
+Canada,North America,8,Couples,Excalibur Hotel & Casino,3,3981,5
+UK,Europe,3,Business,Excalibur Hotel & Casino,3,3981,3
+USA,North America,1,Solo,Excalibur Hotel & Casino,3,3981,5
+Ireland,Europe,8,Couples,Excalibur Hotel & Casino,3,3981,5
+Canada,North America,7,Couples,Excalibur Hotel & Casino,3,3981,5
+Australia,Oceania,0,Couples,Excalibur Hotel & Casino,3,3981,3
+Canada,North America,1,Solo,Excalibur Hotel & Casino,3,3981,3
+Egypt,Africa,4,Friends,Excalibur Hotel & Casino,3,3981,3
+Australia,Oceania,0,Couples,Excalibur Hotel & Casino,3,3981,4
+Finland,Europe,6,Couples,Excalibur Hotel & Casino,3,3981,3
+USA,North America,6,Friends,Excalibur Hotel & Casino,3,3981,4
+Kenya,Africa,1,Friends,Excalibur Hotel & Casino,3,3981,4
+USA,North America,10,Couples,Excalibur Hotel & Casino,3,3981,4
+USA,North America,2,Families,Excalibur Hotel & Casino,3,3981,2
+Jordan,Europe,2,Business,Excalibur Hotel & Casino,3,3981,3
+Canada,North America,8,Couples,Excalibur Hotel & Casino,3,3981,3
+Netherlands,Europe,4,Families,Excalibur Hotel & Casino,3,3981,3
+Ireland,Europe,5,Friends,Excalibur Hotel & Casino,3,3981,4
+USA,North America,6,Families,Excalibur Hotel & Casino,3,3981,4
+UK,Europe,1,Friends,Excalibur Hotel & Casino,3,3981,4
+UK,Europe,7,Couples,Excalibur Hotel & Casino,3,3981,4
+Syria,Asia,4,Solo,Excalibur Hotel & Casino,3,3981,3
+UK,Europe,3,Couples,Monte Carlo Resort&Casino,4,3003,3
+USA,North America,5,Solo,Monte Carlo Resort&Casino,4,3003,4
+USA,North America,3,Couples,Monte Carlo Resort&Casino,4,3003,2
+USA,North America,2,Couples,Monte Carlo Resort&Casino,4,3003,4
+Canada,North America,2,Couples,Monte Carlo Resort&Casino,4,3003,3
+USA,North America,2,Business,Monte Carlo Resort&Casino,4,3003,4
+Scotland,Europe,5,Couples,Monte Carlo Resort&Casino,4,3003,5
+South Africa,Africa,5,Business,Monte Carlo Resort&Casino,4,3003,2
+Australia,Oceania,2,Couples,Monte Carlo Resort&Casino,4,3003,4
+UK,Europe,3,Couples,Monte Carlo Resort&Casino,4,3003,4
+Ireland,Europe,9,Couples,Monte Carlo Resort&Casino,4,3003,4
+Canada,North America,1,Friends,Monte Carlo Resort&Casino,4,3003,4
+UK,Europe,1,Families,Monte Carlo Resort&Casino,4,3003,4
+New Zeland,Oceania,7,Couples,Monte Carlo Resort&Casino,4,3003,3
+Swiss,Europe,5,NaN,Monte Carlo Resort&Casino,4,3003,2
+UK,Europe,5,Families,Monte Carlo Resort&Casino,4,3003,3
+United Arab Emirates,Asia,8,Friends,Monte Carlo Resort&Casino,4,3003,3
+Ireland,Europe,5,Couples,Monte Carlo Resort&Casino,4,3003,4
+USA,North America,1,Families,Monte Carlo Resort&Casino,4,3003,3
+USA,North America,1,Couples,Monte Carlo Resort&Casino,4,3003,2
+Hungary,Europe,8,Couples,Monte Carlo Resort&Casino,4,3003,4
+China,Asia,0,Business,Monte Carlo Resort&Casino,4,3003,1
+Greece,Europe,0,Business,Monte Carlo Resort&Casino,4,3003,2
+Mexico,North America,3,Couples,Monte Carlo Resort&Casino,4,3003,5
+Croatia,Europe,6,Business,Treasure Island- TI Hotel & Casino,4,2884,3
+Australia,Oceania,1,Couples,Treasure Island- TI Hotel & Casino,4,2884,4
+Canada,North America,9,Friends,Treasure Island- TI Hotel & Casino,4,2884,4
+USA,North America,-1806,Solo,Treasure Island- TI Hotel & Casino,4,2884,5
+USA,North America,1,Couples,Treasure Island- TI Hotel & Casino,4,2884,4
+Canada,North America,2,Friends,Treasure Island- TI Hotel & Casino,4,2884,4
+USA,North America,9,Friends,Treasure Island- TI Hotel & Casino,4,2884,4
+Australia,Oceania,6,Families,Treasure Island- TI Hotel & Casino,4,2884,3
+India,Asia,1,Families,Treasure Island- TI Hotel & Casino,4,2884,3
+Germany,Europe,3,Friends,Treasure Island- TI Hotel & Casino,4,2884,4
+USA,North America,6,Families,Treasure Island- TI Hotel & Casino,4,2884,3
+Canada,North America,2,Couples,Treasure Island- TI Hotel & Casino,4,2884,4
+Australia,Oceania,3,Couples,Treasure Island- TI Hotel & Casino,4,2884,5
+Malaysia,Asia,5,Solo,Treasure Island- TI Hotel & Casino,4,2884,4
+Mexico,South America,8,Couples,Treasure Island- TI Hotel & Casino,4,2884,4
+UK,Europe,5,Couples,Treasure Island- TI Hotel & Casino,4,2884,4
+UK,Europe,0,Couples,Treasure Island- TI Hotel & Casino,4,2884,3
+USA,North America,2,Business,Treasure Island- TI Hotel & Casino,4,2884,4
+Australia,Oceania,5,Families,Treasure Island- TI Hotel & Casino,4,2884,5
+USA,North America,2,Couples,Treasure Island- TI Hotel & Casino,4,2884,3
+Thailand,Asia,7,Couples,Treasure Island- TI Hotel & Casino,4,2884,5
+Australia,Oceania,2,Families,Treasure Island- TI Hotel & Casino,4,2884,4
+Canada,North America,4,Friends,Treasure Island- TI Hotel & Casino,4,2884,4
+Canada,North America,12,Couples,Treasure Island- TI Hotel & Casino,4,2884,5
+UK,Europe,8,Families,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4,1467,4
+USA,North America,2,Friends,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4,1467,5
+Phillippines,Asia,5,Couples,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4,1467,3
+Israel,Asia,2,Business,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4,1467,3
+Canada,North America,3,Business,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4,1467,4
+UK,Europe,1,Couples,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4,1467,4
+Ireland,Europe,3,Couples,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4,1467,5
+India,Asia,3,Business,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4,1467,4
+New Zeland,Oceania,1,Couples,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4,1467,4
+Belgium,Europe,1,Friends,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4,1467,3
+UK,Europe,3,Business,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4,1467,4
+Australia,Oceania,7,Friends,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4,1467,4
+UK,Europe,10,NaN,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4,1467,4
+UK,Europe,1,Couples,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4,1467,4
+New Zeland,Oceania,1,Friends,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4,1467,5
+Australia,Oceania,0,Couples,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4,1467,5
+Canada,North America,0,Couples,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4,1467,1
+Australia,Oceania,5,Couples,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4,1467,5
+UK,Europe,1,Friends,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4,1467,5
+USA,North America,1,Friends,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4,1467,2
+India,Asia,1,Solo,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4,1467,4
+Netherlands,Europe,7,Friends,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4,1467,5
+UK,Europe,4,Couples,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4,1467,5
+UK,Europe,4,Families,Tropicana Las Vegas - A Double Tree by Hilton Hotel,4,1467,5
+USA,North America,7,Friends,Caesars Palace,5,3348,5
+USA,North America,3,Couples,Caesars Palace,5,3348,4
+Puerto Rico,North America,10,Families,Caesars Palace,5,3348,5
+Canada,North America,2,Families,Caesars Palace,5,3348,5
+USA,North America,4,Families,Caesars Palace,5,3348,5
+USA,North America,9,Families,Caesars Palace,5,3348,3
+Canada,North America,3,Couples,Caesars Palace,5,3348,5
+USA,North America,2,Couples,Caesars Palace,5,3348,4
+UK,Europe,4,Couples,Caesars Palace,5,3348,1
+UK,Europe,5,Couples,Caesars Palace,5,3348,4
+USA,North America,2,Couples,Caesars Palace,5,3348,4
+USA,North America,9,Solo,Caesars Palace,5,3348,1
+USA,North America,1,Couples,Caesars Palace,5,3348,5
+UK,Europe,6,Families,Caesars Palace,5,3348,3
+UK,Europe,3,Families,Caesars Palace,5,3348,5
+Canada,North America,5,Friends,Caesars Palace,5,3348,4
+USA,North America,3,Couples,Caesars Palace,5,3348,5
+USA,North America,3,Couples,Caesars Palace,5,3348,5
+USA,North America,11,Business,Caesars Palace,5,3348,5
+USA,North America,2,Friends,Caesars Palace,5,3348,5
+Australia,Oceania,4,Couples,Caesars Palace,5,3348,5
+Australia,Oceania,0,Families,Caesars Palace,5,3348,3
+USA,North America,3,Families,Caesars Palace,5,3348,4
+USA,North America,13,Couples,Caesars Palace,5,3348,4
+Australia,Oceania,3,Friends,The Cosmopolitan Las Vegas,5,2959,4
+Australia,Oceania,1,Friends,The Cosmopolitan Las Vegas,5,2959,5
+Switzerland,Europe,2,Friends,The Cosmopolitan Las Vegas,5,2959,4
+UK,Europe,8,Couples,The Cosmopolitan Las Vegas,5,2959,5
+USA,North America,1,Couples,The Cosmopolitan Las Vegas,5,2959,5
+USA,North America,10,Couples,The Cosmopolitan Las Vegas,5,2959,5
+Ireland,Europe,7,Friends,The Cosmopolitan Las Vegas,5,2959,4
+USA,North America,2,Business,The Cosmopolitan Las Vegas,5,2959,5
+Germany,Europe,8,Families,The Cosmopolitan Las Vegas,5,2959,5
+USA,North America,1,Business,The Cosmopolitan Las Vegas,5,2959,2
+Germany,Europe,7,Couples,The Cosmopolitan Las Vegas,5,2959,2
+Ireland,Europe,3,Friends,The Cosmopolitan Las Vegas,5,2959,5
+USA,North America,1,Business,The Cosmopolitan Las Vegas,5,2959,1
+Australia,Oceania,7,Friends,The Cosmopolitan Las Vegas,5,2959,4
+Canada,North America,4,Families,The Cosmopolitan Las Vegas,5,2959,5
+USA,North America,10,Couples,The Cosmopolitan Las Vegas,5,2959,4
+UK,Europe,1,Couples,The Cosmopolitan Las Vegas,5,2959,5
+Norway,Europe,7,Couples,The Cosmopolitan Las Vegas,5,2959,5
+USA,North America,7,Couples,The Cosmopolitan Las Vegas,5,2959,5
+UK,Europe,0,Friends,The Cosmopolitan Las Vegas,5,2959,5
+Egypt,Africa,5,Business,The Cosmopolitan Las Vegas,5,2959,5
+USA,North America,0,Business,The Cosmopolitan Las Vegas,5,2959,5
+Canada,North America,8,Couples,The Cosmopolitan Las Vegas,5,2959,2
+USA,North America,5,Families,The Cosmopolitan Las Vegas,5,2959,5
+Mexico,North America,4,Couples,The Palazzo Resort Hotel Casino,5,3025,3
+USA,North America,10,Families,The Palazzo Resort Hotel Casino,5,3025,5
+Canada,North America,9,Couples,The Palazzo Resort Hotel Casino,5,3025,5
+USA,North America,3,Couples,The Palazzo Resort Hotel Casino,5,3025,4
+Canada,North America,6,Families,The Palazzo Resort Hotel Casino,5,3025,5
+Canada,North America,8,Families,The Palazzo Resort Hotel Casino,5,3025,5
+USA,North America,5,Couples,The Palazzo Resort Hotel Casino,5,3025,4
+Canada,North America,10,Couples,The Palazzo Resort Hotel Casino,5,3025,5
+France,Europe,0,Couples,The Palazzo Resort Hotel Casino,5,3025,5
+UK,Europe,0,Business,The Palazzo Resort Hotel Casino,5,3025,5
+USA,North America,6,Friends,The Palazzo Resort Hotel Casino,5,3025,4
+USA,North America,8,Couples,The Palazzo Resort Hotel Casino,5,3025,3
+Spain,Europe,3,Friends,The Palazzo Resort Hotel Casino,5,3025,4
+USA,North America,9,Families,The Palazzo Resort Hotel Casino,5,3025,5
+UK,Europe,8,Friends,The Palazzo Resort Hotel Casino,5,3025,4
+USA,North America,3,Business,The Palazzo Resort Hotel Casino,5,3025,4
+UK,Europe,8,Friends,The Palazzo Resort Hotel Casino,5,3025,3
+USA,North America,2,Families,The Palazzo Resort Hotel Casino,5,3025,5
+Canada,North America,1,Families,The Palazzo Resort Hotel Casino,5,3025,5
+Australia,Oceania,2,Couples,The Palazzo Resort Hotel Casino,5,3025,5
+Singapore,Asia,0,Friends,The Palazzo Resort Hotel Casino,5,3025,5
+Brazil,South America,7,Families,The Palazzo Resort Hotel Casino,5,3025,3
+USA,North America,7,Couples,The Palazzo Resort Hotel Casino,5,3025,5
+USA,North America,8,Families,The Palazzo Resort Hotel Casino,5,3025,4
+USA,North America,4,Couples,Wynn Las Vegas,5,2700,5
+USA,North America,4,Families,Wynn Las Vegas,5,2700,5
+Canada,North America,3,Couples,Wynn Las Vegas,5,2700,4
+USA,North America,7,Couples,Wynn Las Vegas,5,2700,5
+USA,North America,6,Friends,Wynn Las Vegas,5,2700,5
+USA,North America,8,Business,Wynn Las Vegas,5,2700,4
+USA,North America,4,Business,Wynn Las Vegas,5,2700,5
+USA,North America,1,Couples,Wynn Las Vegas,5,2700,4
+Singapore,Asia,7,Solo,Wynn Las Vegas,5,2700,3
+UK,Europe,3,Couples,Wynn Las Vegas,5,2700,5
+USA,North America,6,Couples,Wynn Las Vegas,5,2700,5
+USA,North America,11,Couples,Wynn Las Vegas,5,2700,5
+USA,North America,3,Couples,Wynn Las Vegas,5,2700,5
+Canada,North America,3,Couples,Wynn Las Vegas,5,2700,5
+Canada,North America,6,Couples,Wynn Las Vegas,5,2700,5
+Finland,Europe,9,NaN,Wynn Las Vegas,5,2700,5
+Canada,North America,4,Business,Wynn Las Vegas,5,2700,2
+Canada,North America,7,Friends,Wynn Las Vegas,5,2700,5
+USA,North America,3,Couples,Wynn Las Vegas,5,2700,4
+UK,Europe,7,Couples,Wynn Las Vegas,5,2700,5
+Costa Rica,North America,2,Business,Wynn Las Vegas,5,2700,5
+UK,Europe,8,Couples,Wynn Las Vegas,5,2700,5
+UK,Europe,5,Couples,Wynn Las Vegas,5,2700,5
+USA,North America,9,Couples,Wynn Las Vegas,5,2700,5
+UK,Europe,10,Solo,Trump International Hotel Las Vegas,5,1282,5
+India,Asia,5,Business,Trump International Hotel Las Vegas,5,1282,5
+USA,North America,5,Business,Trump International Hotel Las Vegas,5,1282,5
+USA,North America,0,Families,Trump International Hotel Las Vegas,5,1282,5
+USA,North America,5,Couples,Trump International Hotel Las Vegas,5,1282,5
+USA,North America,2,Couples,Trump International Hotel Las Vegas,5,1282,3
+United Arab Emirates,Asia,7,Couples,Trump International Hotel Las Vegas,5,1282,4
+USA,North America,0,Couples,Trump International Hotel Las Vegas,5,1282,5
+Singapore,Asia,7,Families,Trump International Hotel Las Vegas,5,1282,4
+Brazil,South America,7,Families,Trump International Hotel Las Vegas,5,1282,5
+USA,North America,8,Couples,Trump International Hotel Las Vegas,5,1282,5
+USA,North America,9,Business,Trump International Hotel Las Vegas,5,1282,5
+Canada,North America,3,Families,Trump International Hotel Las Vegas,5,1282,5
+USA,North America,6,Families,Trump International Hotel Las Vegas,5,1282,4
+Iran,Asia,4,Couples,Trump International Hotel Las Vegas,5,1282,4
+USA,North America,5,Couples,Trump International Hotel Las Vegas,5,1282,5
+UK,Europe,0,Families,Trump International Hotel Las Vegas,5,1282,5
+Egypt,Africa,1,Families,Trump International Hotel Las Vegas,5,1282,1
+Ireland,Europe,11,Friends,Trump International Hotel Las Vegas,5,1282,5
+Australia,Oceania,2,Couples,Trump International Hotel Las Vegas,5,1282,5
+Germany,Europe,0,Couples,Trump International Hotel Las Vegas,5,1282,2
+Australia,Oceania,2,Families,Trump International Hotel Las Vegas,5,1282,4
+USA,North America,2,Business,Trump International Hotel Las Vegas,5,1282,4
+USA,North America,3,Couples,Trump International Hotel Las Vegas,5,1282,5
+Saudi Arabia,Asia,6,Business,The Cromwell,4.5,188,3
+USA,North America,1,Business,The Cromwell,4.5,188,4
+USA,North America,1,Families,The Cromwell,4.5,188,5
+USA,North America,2,Couples,The Cromwell,4.5,188,5
+USA,North America,1,Solo,The Cromwell,4.5,188,2
+USA,North America,10,Friends,The Cromwell,4.5,188,5
+Canada,North America,1,Couples,The Cromwell,4.5,188,5
+Canada,North America,4,Families,The Cromwell,4.5,188,2
+USA,North America,9,Friends,The Cromwell,4.5,188,5
+USA,North America,3,Couples,The Cromwell,4.5,188,5
+USA,North America,0,Friends,The Cromwell,4.5,188,5
+USA,North America,0,Couples,The Cromwell,4.5,188,5
+USA,North America,11,Couples,The Cromwell,4.5,188,5
+USA,North America,0,Friends,The Cromwell,4.5,188,1
+Netherlands,Europe,3,Couples,The Cromwell,4.5,188,5
+UK,Europe,2,Families,The Cromwell,4.5,188,4
+USA,North America,0,Couples,The Cromwell,4.5,188,5
+Australia,Oceania,2,Business,The Cromwell,4.5,188,4
+USA,North America,8,Families,The Cromwell,4.5,188,3
+Norway,Europe,8,Friends,The Cromwell,4.5,188,5
+Canada,North America,5,Couples,The Cromwell,4.5,188,3
+USA,North America,3,Business,The Cromwell,4.5,188,4
+Canada,North America,4,Couples,The Cromwell,4.5,188,4
+USA,North America,2,Couples,The Cromwell,4.5,188,4
+Thailand,Asia,5,Business,Encore at wynn Las Vegas,5,2034,1
+USA,North America,3,Couples,Encore at wynn Las Vegas,5,2034,5
+UK,Europe,8,Couples,Encore at wynn Las Vegas,5,2034,4
+USA,North America,4,Business,Encore at wynn Las Vegas,5,2034,5
+USA,North America,7,Couples,Encore at wynn Las Vegas,5,2034,5
+USA,North America,1,Friends,Encore at wynn Las Vegas,5,2034,4
+UK,Europe,7,Families,Encore at wynn Las Vegas,5,2034,3
+Honduras,South America,10,Friends,Encore at wynn Las Vegas,5,2034,4
+USA,North America,2,Business,Encore at wynn Las Vegas,5,2034,5
+UK,Europe,5,Friends,Encore at wynn Las Vegas,5,2034,5
+UK,Europe,2,Couples,Encore at wynn Las Vegas,5,2034,5
+USA,North America,4,Business,Encore at wynn Las Vegas,5,2034,4
+USA,North America,3,Friends,Encore at wynn Las Vegas,5,2034,5
+USA,North America,3,Families,Encore at wynn Las Vegas,5,2034,5
+UK,Europe,1,Families,Encore at wynn Las Vegas,5,2034,5
+USA,North America,4,Families,Encore at wynn Las Vegas,5,2034,5
+USA,North America,6,Couples,Encore at wynn Las Vegas,5,2034,5
+UK,Europe,5,Friends,Encore at wynn Las Vegas,5,2034,5
+USA,North America,5,Couples,Encore at wynn Las Vegas,5,2034,5
+UK,Europe,4,Business,Encore at wynn Las Vegas,5,2034,4
+India,Asia,5,Couples,Encore at wynn Las Vegas,5,2034,5
+USA,North America,5,Couples,Encore at wynn Las Vegas,5,2034,5
+USA,North America,8,Friends,Encore at wynn Las Vegas,5,2034,5
+USA,North America,7,Business,Encore at wynn Las Vegas,5,2034,5
+USA,North America,6,Couples,Hilton Grand Vacations on the Boulevard,3.5,1228,5
+USA,North America,10,Families,Hilton Grand Vacations on the Boulevard,3.5,1228,2
+Mexico,North America,4,Business,Hilton Grand Vacations on the Boulevard,3.5,1228,5
+Canada,North America,1,Couples,Hilton Grand Vacations on the Boulevard,3.5,1228,5
+UK,Europe,8,Couples,Hilton Grand Vacations on the Boulevard,3.5,1228,5
+Netherlands,Europe,5,Couples,Hilton Grand Vacations on the Boulevard,3.5,1228,4
+Australia,Oceania,3,Business,Hilton Grand Vacations on the Boulevard,3.5,1228,4
+Canada,North America,10,Families,Hilton Grand Vacations on the Boulevard,3.5,1228,4
+Brazil,South America,9,Families,Hilton Grand Vacations on the Boulevard,3.5,1228,5
+USA,North America,3,Couples,Hilton Grand Vacations on the Boulevard,3.5,1228,1
+USA,North America,1,Friends,Hilton Grand Vacations on the Boulevard,3.5,1228,5
+USA,North America,1,Solo,Hilton Grand Vacations on the Boulevard,3.5,1228,5
+Finland,Europe,4,Families,Hilton Grand Vacations on the Boulevard,3.5,1228,4
+UK,Europe,1,Families,Hilton Grand Vacations on the Boulevard,3.5,1228,5
+USA,North America,5,Couples,Hilton Grand Vacations on the Boulevard,3.5,1228,4
+UK,Europe,4,Families,Hilton Grand Vacations on the Boulevard,3.5,1228,5
+Canada,North America,7,Families,Hilton Grand Vacations on the Boulevard,3.5,1228,5
+USA,North America,2,Solo,Hilton Grand Vacations on the Boulevard,3.5,1228,5
+UK,Europe,2,Couples,Hilton Grand Vacations on the Boulevard,3.5,1228,2
+USA,North America,9,Business,Hilton Grand Vacations on the Boulevard,3.5,1228,4
+USA,North America,0,Families,Hilton Grand Vacations on the Boulevard,3.5,1228,3
+Mexico,North America,6,Families,Hilton Grand Vacations on the Boulevard,3.5,1228,4
+USA,North America,7,Couples,Hilton Grand Vacations on the Boulevard,3.5,1228,5
+Australia,Oceania,7,Couples,Hilton Grand Vacations on the Boulevard,3.5,1228,4
+Canada,North America,6,Business,Marriott's Grand Chateau,3.5,732,4
+USA,North America,4,Business,Marriott's Grand Chateau,3.5,732,4
+USA,North America,4,Families,Marriott's Grand Chateau,3.5,732,5
+USA,North America,5,Business,Marriott's Grand Chateau,3.5,732,5
+UK,Europe,6,Friends,Marriott's Grand Chateau,3.5,732,4
+Germany,Europe,10,Business,Marriott's Grand Chateau,3.5,732,5
+Canada,North America,10,Couples,Marriott's Grand Chateau,3.5,732,5
+USA,North America,2,Couples,Marriott's Grand Chateau,3.5,732,4
+Australia,Oceania,7,Couples,Marriott's Grand Chateau,3.5,732,4
+Canada,North America,6,Business,Marriott's Grand Chateau,3.5,732,4
+USA,North America,4,Families,Marriott's Grand Chateau,3.5,732,5
+Australia,Oceania,0,Families,Marriott's Grand Chateau,3.5,732,5
+USA,North America,6,Couples,Marriott's Grand Chateau,3.5,732,5
+Denmark,Europe,3,Couples,Marriott's Grand Chateau,3.5,732,5
+Taiwan,Asia,1,Families,Marriott's Grand Chateau,3.5,732,5
+Israel,Asia,5,Families,Marriott's Grand Chateau,3.5,732,5
+Hawaii,North America,1,Friends,Marriott's Grand Chateau,3.5,732,5
+USA,North America,0,Friends,Marriott's Grand Chateau,3.5,732,5
+Thailand,Asia,7,Business,Marriott's Grand Chateau,3.5,732,3
+Mexico,North America,4,Families,Marriott's Grand Chateau,3.5,732,5
+Kuwait,Asia,1,Couples,Marriott's Grand Chateau,3.5,732,4
+Norway,Europe,5,Couples,Marriott's Grand Chateau,3.5,732,4
+USA,North America,1,Couples,Marriott's Grand Chateau,3.5,732,5
+Germany,Europe,7,Families,Marriott's Grand Chateau,3.5,732,4
+USA,North America,8,Couples,Tuscany Las Vegas Suites & Casino,3,716,5
+USA,North America,8,Friends,Tuscany Las Vegas Suites & Casino,3,716,5
+UK,Europe,4,Business,Tuscany Las Vegas Suites & Casino,3,716,3
+USA,North America,5,Business,Tuscany Las Vegas Suites & Casino,3,716,5
+USA,North America,8,Friends,Tuscany Las Vegas Suites & Casino,3,716,5
+USA,North America,7,Couples,Tuscany Las Vegas Suites & Casino,3,716,5
+Brazil,North America,7,Couples,Tuscany Las Vegas Suites & Casino,3,716,5
+USA,North America,3,Couples,Tuscany Las Vegas Suites & Casino,3,716,4
+India,Asia,0,Families,Tuscany Las Vegas Suites & Casino,3,716,2
+USA,North America,5,Business,Tuscany Las Vegas Suites & Casino,3,716,3
+Malaysia,Asia,1,Friends,Tuscany Las Vegas Suites & Casino,3,716,5
+USA,North America,6,Couples,Tuscany Las Vegas Suites & Casino,3,716,3
+Germany,Europe,5,Couples,Tuscany Las Vegas Suites & Casino,3,716,5
+Canada,North America,3,Business,Tuscany Las Vegas Suites & Casino,3,716,4
+Canada,North America,0,Business,Tuscany Las Vegas Suites & Casino,3,716,3
+USA,North America,6,Couples,Tuscany Las Vegas Suites & Casino,3,716,4
+Australia,Oceania,5,Couples,Tuscany Las Vegas Suites & Casino,3,716,5
+USA,North America,0,Couples,Tuscany Las Vegas Suites & Casino,3,716,5
+UK,Europe,5,Couples,Tuscany Las Vegas Suites & Casino,3,716,3
+Canada,North America,7,Business,Tuscany Las Vegas Suites & Casino,3,716,5
+USA,North America,8,Couples,Tuscany Las Vegas Suites & Casino,3,716,4
+USA,North America,3,Business,Tuscany Las Vegas Suites & Casino,3,716,3
+Canada,North America,4,Families,Tuscany Las Vegas Suites & Casino,3,716,5
+USA,North America,5,Friends,Tuscany Las Vegas Suites & Casino,3,716,5
+USA,North America,6,Business,Hilton Grand Vacations at the Flamingo,3,315,3
+USA,North America,3,Couples,Hilton Grand Vacations at the Flamingo,3,315,5
+UK,Europe,4,Couples,Hilton Grand Vacations at the Flamingo,3,315,2
+USA,North America,1,Families,Hilton Grand Vacations at the Flamingo,3,315,2
+USA,North America,9,Friends,Hilton Grand Vacations at the Flamingo,3,315,5
+Hawaii,North America,2,Couples,Hilton Grand Vacations at the Flamingo,3,315,5
+Hawaii,North America,1,Families,Hilton Grand Vacations at the Flamingo,3,315,3
+Canada,North America,4,Families,Hilton Grand Vacations at the Flamingo,3,315,3
+USA,North America,6,Friends,Hilton Grand Vacations at the Flamingo,3,315,3
+Canada,North America,3,Families,Hilton Grand Vacations at the Flamingo,3,315,3
+USA,North America,2,Couples,Hilton Grand Vacations at the Flamingo,3,315,5
+Australia,Oceania,5,Couples,Hilton Grand Vacations at the Flamingo,3,315,4
+USA,North America,7,Families,Hilton Grand Vacations at the Flamingo,3,315,3
+Canada,North America,3,Couples,Hilton Grand Vacations at the Flamingo,3,315,5
+USA,North America,0,Families,Hilton Grand Vacations at the Flamingo,3,315,4
+USA,North America,1,Families,Hilton Grand Vacations at the Flamingo,3,315,5
+Canada,North America,4,Friends,Hilton Grand Vacations at the Flamingo,3,315,5
+USA,North America,10,Business,Hilton Grand Vacations at the Flamingo,3,315,4
+Australia,Oceania,0,Families,Hilton Grand Vacations at the Flamingo,3,315,4
+India,Asia,5,Couples,Hilton Grand Vacations at the Flamingo,3,315,4
+Czech Republic,Europe,5,Business,Hilton Grand Vacations at the Flamingo,3,315,4
+USA,North America,4,Business,Hilton Grand Vacations at the Flamingo,3,315,5
+USA,North America,8,Couples,Hilton Grand Vacations at the Flamingo,3,315,4
+Mexico,North America,2,Families,Hilton Grand Vacations at the Flamingo,3,315,5
+USA,North America,2,Friends,Wyndham Grand Desert,3.5,787,4
+Australia,Oceania,4,Families,Wyndham Grand Desert,3.5,787,5
+USA,North America,3,Couples,Wyndham Grand Desert,3.5,787,5
+Canada,North America,11,Couples,Wyndham Grand Desert,3.5,787,5
+USA,North America,4,Friends,Wyndham Grand Desert,3.5,787,5
+USA,North America,3,Couples,Wyndham Grand Desert,3.5,787,4
+Canada,North America,6,Families,Wyndham Grand Desert,3.5,787,5
+USA,North America,4,Couples,Wyndham Grand Desert,3.5,787,5
+Australia,Oceania,1,Families,Wyndham Grand Desert,3.5,787,4
+USA,North America,5,Business,Wyndham Grand Desert,3.5,787,4
+UK,Europe,6,Couples,Wyndham Grand Desert,3.5,787,5
+India,Asia,7,Families,Wyndham Grand Desert,3.5,787,5
+UK,Europe,3,Families,Wyndham Grand Desert,3.5,787,5
+USA,North America,4,Friends,Wyndham Grand Desert,3.5,787,4
+USA,North America,4,Families,Wyndham Grand Desert,3.5,787,3
+Canada,North America,2,Couples,Wyndham Grand Desert,3.5,787,5
+USA,North America,6,Friends,Wyndham Grand Desert,3.5,787,5
+USA,North America,8,Business,Wyndham Grand Desert,3.5,787,4
+Ireland,Europe,6,Couples,Wyndham Grand Desert,3.5,787,3
+UK,Europe,4,Couples,Wyndham Grand Desert,3.5,787,4
+Japan,Asia,4,Families,Wyndham Grand Desert,3.5,787,3
+USA,North America,2,Families,Wyndham Grand Desert,3.5,787,4
+USA,North America,5,Families,Wyndham Grand Desert,3.5,787,4
+Canada,North America,5,Friends,Wyndham Grand Desert,3.5,787,5
+Ireland,Europe,2,Business,The Venetian Las Vegas Hotel,5,4027,4
+USA,North America,0,Solo,The Venetian Las Vegas Hotel,5,4027,5
+USA,North America,5,Families,The Venetian Las Vegas Hotel,5,4027,4
+Mexico,North America,0,Couples,The Venetian Las Vegas Hotel,5,4027,5
+USA,North America,2,Couples,The Venetian Las Vegas Hotel,5,4027,3
+USA,North America,5,Couples,The Venetian Las Vegas Hotel,5,4027,5
+Israel,Asia,9,Couples,The Venetian Las Vegas Hotel,5,4027,5
+Australia,Oceania,2,Couples,The Venetian Las Vegas Hotel,5,4027,4
+Australia,Oceania,1,Families,The Venetian Las Vegas Hotel,5,4027,4
+UK,Europe,0,Couples,The Venetian Las Vegas Hotel,5,4027,5
+USA,North America,1,Couples,The Venetian Las Vegas Hotel,5,4027,5
+USA,North America,6,Business,The Venetian Las Vegas Hotel,5,4027,5
+Australia,Oceania,4,Couples,The Venetian Las Vegas Hotel,5,4027,4
+UK,Europe,5,Couples,The Venetian Las Vegas Hotel,5,4027,4
+Canada,North America,10,Families,The Venetian Las Vegas Hotel,5,4027,5
+UK,Europe,3,Couples,The Venetian Las Vegas Hotel,5,4027,5
+UK,Europe,5,Couples,The Venetian Las Vegas Hotel,5,4027,5
+UK,Europe,7,Couples,The Venetian Las Vegas Hotel,5,4027,5
+Brazil,South America,2,Couples,The Venetian Las Vegas Hotel,5,4027,5
+UK,Europe,8,Couples,The Venetian Las Vegas Hotel,5,4027,4
+Switzerland,Europe,5,Friends,The Venetian Las Vegas Hotel,5,4027,5
+Australia,Oceania,4,Couples,The Venetian Las Vegas Hotel,5,4027,5
+Singapore,Asia,9,Families,The Venetian Las Vegas Hotel,5,4027,5
+USA,North America,10,Couples,The Venetian Las Vegas Hotel,5,4027,4
+Australia,Oceania,3,Solo,Bellagio Las Vegas,5,3933,4
+USA,North America,5,Families,Bellagio Las Vegas,5,3933,5
+USA,North America,3,Couples,Bellagio Las Vegas,5,3933,4
+USA,North America,1,Business,Bellagio Las Vegas,5,3933,5
+India,Asia,6,Couples,Bellagio Las Vegas,5,3933,5
+USA,North America,0,Business,Bellagio Las Vegas,5,3933,2
+Ireland,Europe,4,Business,Bellagio Las Vegas,5,3933,5
+Spain,Europe,3,Families,Bellagio Las Vegas,5,3933,2
+UK,Europe,3,Friends,Bellagio Las Vegas,5,3933,3
+UK,Europe,1,Couples,Bellagio Las Vegas,5,3933,5
+UK,Europe,0,Families,Bellagio Las Vegas,5,3933,5
+USA,North America,6,Business,Bellagio Las Vegas,5,3933,4
+USA,North America,5,Couples,Bellagio Las Vegas,5,3933,5
+Korea,Asia,10,Families,Bellagio Las Vegas,5,3933,4
+USA,North America,0,Solo,Bellagio Las Vegas,5,3933,4
+Scotland,Europe,6,Families,Bellagio Las Vegas,5,3933,5
+Ireland,Europe,6,Couples,Bellagio Las Vegas,5,3933,5
+USA,North America,2,Business,Bellagio Las Vegas,5,3933,4
+UK,Europe,5,Couples,Bellagio Las Vegas,5,3933,5
+UK,Europe,1,Couples,Bellagio Las Vegas,5,3933,4
+UK,Europe,4,Friends,Bellagio Las Vegas,5,3933,5
+Canada,North America,3,Friends,Bellagio Las Vegas,5,3933,5
+India,Asia,1,Business,Bellagio Las Vegas,5,3933,4
+Malaysia,Asia,4,Families,Bellagio Las Vegas,5,3933,2
+USA,North America,7,Couples,Paris Las Vegas,4,2916,4
+Canada,North America,1,Couples,Paris Las Vegas,4,2916,5
+USA,North America,1,Couples,Paris Las Vegas,4,2916,2
+USA,North America,4,Friends,Paris Las Vegas,4,2916,4
+USA,North America,9,Couples,Paris Las Vegas,4,2916,2
+USA,North America,2,Couples,Paris Las Vegas,4,2916,5
+USA,North America,9,Business,Paris Las Vegas,4,2916,4
+Canada,North America,3,Friends,Paris Las Vegas,4,2916,3
+USA,North America,6,Friends,Paris Las Vegas,4,2916,5
+USA,North America,5,Couples,Paris Las Vegas,4,2916,3
+Australia,Oceania,4,Couples,Paris Las Vegas,4,2916,5
+Costa Rica,North America,6,Couples,Paris Las Vegas,4,2916,3
+USA,North America,3,Couples,Paris Las Vegas,4,2916,4
+UK,Europe,3,Families,Paris Las Vegas,4,2916,4
+Egypt,Africa,4,Families,Paris Las Vegas,4,2916,5
+USA,North America,3,Couples,Paris Las Vegas,4,2916,5
+USA,North America,2,Couples,Paris Las Vegas,4,2916,4
+Canada,North America,2,Couples,Paris Las Vegas,4,2916,5
+Canada,North America,2,Couples,Paris Las Vegas,4,2916,2
+USA,North America,0,Couples,Paris Las Vegas,4,2916,5
+USA,North America,6,Couples,Paris Las Vegas,4,2916,4
+USA,North America,0,Couples,Paris Las Vegas,4,2916,5
+Canada,North America,4,Couples,Paris Las Vegas,4,2916,5
+USA,North America,1,Friends,Paris Las Vegas,4,2916,4
+Canada,North America,4,Couples,The Westin las Vegas Hotel Casino & Spa,4,826,4
+USA,North America,7,Families,The Westin las Vegas Hotel Casino & Spa,4,826,3
+Italy,Europe,3,Solo,The Westin las Vegas Hotel Casino & Spa,4,826,4
+USA,North America,8,Couples,The Westin las Vegas Hotel Casino & Spa,4,826,3
+USA,North America,4,Business,The Westin las Vegas Hotel Casino & Spa,4,826,5
+USA,North America,4,Friends,The Westin las Vegas Hotel Casino & Spa,4,826,5
+USA,North America,4,Business,The Westin las Vegas Hotel Casino & Spa,4,826,4
+Egypt,Africa,12,Solo,The Westin las Vegas Hotel Casino & Spa,4,826,4
+USA,North America,4,Friends,The Westin las Vegas Hotel Casino & Spa,4,826,3
+USA,North America,3,Couples,The Westin las Vegas Hotel Casino & Spa,4,826,4
+USA,North America,11,Solo,The Westin las Vegas Hotel Casino & Spa,4,826,4
+USA,North America,5,Business,The Westin las Vegas Hotel Casino & Spa,4,826,3
+India,Asia,6,Families,The Westin las Vegas Hotel Casino & Spa,4,826,4
+USA,North America,6,Couples,The Westin las Vegas Hotel Casino & Spa,4,826,5
+USA,North America,7,Families,The Westin las Vegas Hotel Casino & Spa,4,826,3
+USA,North America,5,Couples,The Westin las Vegas Hotel Casino & Spa,4,826,4
+USA,North America,6,Solo,The Westin las Vegas Hotel Casino & Spa,4,826,5
+USA,North America,11,Couples,The Westin las Vegas Hotel Casino & Spa,4,826,3
+UK,Europe,1,Couples,The Westin las Vegas Hotel Casino & Spa,4,826,5
+UK,Europe,1,Couples,The Westin las Vegas Hotel Casino & Spa,4,826,5
+Canada,North America,8,Couples,The Westin las Vegas Hotel Casino & Spa,4,826,4
+USA,North America,4,Friends,The Westin las Vegas Hotel Casino & Spa,4,826,4
+USA,North America,9,Families,The Westin las Vegas Hotel Casino & Spa,4,826,2
+USA,North America,5,Families,The Westin las Vegas Hotel Casino & Spa,4,826,4
